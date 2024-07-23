@@ -1,7 +1,8 @@
 <?php 
-$home=new template('lib/HomePage.php');
-$home->title="mohammad ";
+include 'core/init.php';
+$template=new template('templates/HomePage.php');
+$template->title="mohammad ";
 
 
-echo $home;
+echo $template;
 ?>
