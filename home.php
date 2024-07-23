@@ -1,6 +1,6 @@
 <?php 
 $home=new template('lib/HomePage.php');
-$home->title="mohammad rammadan";
+$home->title="mohammad ";
 
 
 echo $home;
