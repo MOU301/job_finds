@@ -1,0 +1,14 @@
+
+.a {
+    text-decoration: none !important;
+
+}
+.gray{
+    background: #eee;
+}
+.color2{
+    color: red;
+}
+.container{
+    min-height:100vh ;
+}
